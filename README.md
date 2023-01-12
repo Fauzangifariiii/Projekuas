@@ -1,8 +1,8 @@
 # Latihan membuat MVC (Model View Controller) dengan python
 
-Nama : Syifa Aurellia Rahma
+Nama : Muhammad Fauzan Gifari
 
-NIM : 312210009
+NIM : 312210428
 
 Kelas : TI.22.A1
 
@@ -21,3 +21,6 @@ Cara Menjalankan Program :
 [Modul Menerapkan MVC pada Bahasa Pemrograman Python](https://drive.google.com/file/d/1oC_JlvKnLNlYuxKsKp0fPDH0XpMau_GX/view?usp=share_link)
 
 Berikut link repository github :
+https://github.com/Fauzangifariiii/Projekuas.git
+
+Sekian, Terima Kasih
